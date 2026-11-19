@@ -1,0 +1,10 @@
+[
+  {
+    "priority": 1,
+    "enabled": true,
+    "region": "cn-nanjing",
+    "label": "Tencent Cloud VPS",
+    "ip": "1.13.142.186",
+    "port": 7777
+  }
+]

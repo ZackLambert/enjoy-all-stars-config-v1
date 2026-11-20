@@ -1,10 +1,11 @@
 [
-  {
-    "priority": 1,
-    "enabled": true,
-    "region": "cn-nanjing",
-    "label": "Tencent Cloud VPS",
-    "ip": "1.13.142.186",
-    "port": 7777
-  }
+    {
+        "priority":  1,
+        "enabled":  true,
+        "region":  "Tokyo, Japan",
+        "label":  "Edgegap Free Test",
+        "host":  "f1aea34f19eb.pr.edgegap.net",
+        "ip":  "104.105.147.88",
+        "port":  31140
+    }
 ]
